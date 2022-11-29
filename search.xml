@@ -21,7 +21,7 @@
       <link href="/2022/11/29/esmo/"/>
       <url>/2022/11/29/esmo/</url>
       
-        <content type="html"><![CDATA[<p><video src="https://s3.eu-central-1.amazonaws.com/eu-cslide-prod-recordings/esmo2022/88/5904_Intro_ws_webcast.mp4" controlslist="nodownload"></video></p><div class="bilibili">    <iframe src="https://s3.eu-central-1.amazonaws.com/eu-cslide-prod-recordings/esmo2022/88/5904_Intro_ws_webcast.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">     </iframe></div>]]></content>
+        <content type="html"><![CDATA[<p>.videoContent {<br>        background-color: rgb(40, 46, 83);<br>        width: 100%;<br>        height: 100%;<br>    }</p><pre><code>.videoElement &#123;    object-fit: fill;&#125;&lt;div class=&quot;videoContent&quot;&gt;    &lt;video class=&quot;videoElement&quot; src=&quot;https://s3.eu-central-1.amazonaws.com/eu-cslide-prod-recordings/esmo2022/88/5904_Intro_ws_webcast.mp4&quot; controls controlslist=&quot;nodownload&quot;        preload=&quot;auto&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;/video&gt;&lt;/div&gt;</code></pre>]]></content>
       
       
       
